@@ -1,0 +1,13 @@
+C:\Users\hi\Source\Repos\HospitalManagement\HospitalManagement\bin\Debug\HospitalManagement.exe.config
+C:\Users\hi\Source\Repos\HospitalManagement\HospitalManagement\bin\Debug\HospitalManagement.exe
+C:\Users\hi\Source\Repos\HospitalManagement\HospitalManagement\bin\Debug\HospitalManagement.pdb
+C:\Users\hi\Source\Repos\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.csproj.AssemblyReference.cache
+C:\Users\hi\Source\Repos\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\hi\Source\Repos\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.Admin.resources
+C:\Users\hi\Source\Repos\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.Form1.resources
+C:\Users\hi\Source\Repos\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.Properties.Resources.resources
+C:\Users\hi\Source\Repos\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.csproj.GenerateResource.cache
+C:\Users\hi\Source\Repos\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.csproj.CoreCompileInputs.cache
+C:\Users\hi\Source\Repos\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.exe
+C:\Users\hi\Source\Repos\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.pdb
+C:\Users\hi\Source\Repos\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.AdminManage.resources
